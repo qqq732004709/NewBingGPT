@@ -40,6 +40,7 @@ public partial class Form1 : Form
         _page = _context.Pages[0];
 
         await _page.GotoAsync("https://www.bing.com/new");
+
     }
 
     private void CoreWebView2_NewWindowRequested(object sender, CoreWebView2NewWindowRequestedEventArgs e)
