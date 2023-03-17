@@ -40,16 +40,20 @@ public partial class Form1 : Form
         _page = _context.Pages[0];
 
         await _page.GotoAsync("https://www.bing.com/new");
-
     }
 
     private void CoreWebView2_NewWindowRequested(object sender, CoreWebView2NewWindowRequestedEventArgs e)
     {
-        // 在当前 Webview2 控件中加载 URL
-        _webView!.CoreWebView2.Navigate(e.Uri);
 
-        // 取消打开新窗口
-        e.Handled = true;
+        if (e.Uri.Contains("https://www.bing.com/ck"))
+        {
+            // 在当前 Webview2 控件中加载 URL
+            _webView!.CoreWebView2.Navigate(e.Uri);
+
+            // 取消打开新窗口
+            e.Handled = true;
+        }
+        
     }
 
 
