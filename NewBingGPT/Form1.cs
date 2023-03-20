@@ -39,7 +39,14 @@ public partial class Form1 : Form
         _context = _browser.Contexts[0];
         _page = _context.Pages[0];
 
-        await _page.GotoAsync("https://www.bing.com/new");
+        try
+        {
+            await _page.GotoAsync("https://www.bing.com/new");
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show(@"打开bing chat 出现问题，请检查代理是否正常");
+        }
     }
 
     private void CoreWebView2_NewWindowRequested(object sender, CoreWebView2NewWindowRequestedEventArgs e)
@@ -53,7 +60,7 @@ public partial class Form1 : Form
             // 取消打开新窗口
             e.Handled = true;
         }
-        
+
     }
 
 
