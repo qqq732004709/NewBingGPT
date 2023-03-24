@@ -6,6 +6,7 @@
 - 开启国外代理后可以自由访问
 
 ## 如何使用
+[注册流程以及使用教程](https://www.cnblogs.com/cxyzncu/articles/17253030.html)
 1. 下载release中的安装包并安装
 2. 开启代理后打开软件
 3. 点击立即聊天即可使用 
