@@ -26,7 +26,7 @@
   Get access to the early preview of new Bing - [Join the waitlist](https://www.bing.com/new)
 - 国外代理 
  
-  ** VPN is required when launching the app if new Bing is not available in your area.**
+  VPN is required when launching the app if new Bing is not available in your area.
 
 
 ## 如何使用/ Usage
