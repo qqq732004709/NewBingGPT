@@ -5,7 +5,8 @@
   <p align="center">Desktop application of new Bing's AI-powered chat</p>
 </p>
 
-Desktop application of new Bing's AI-powered chat
+
+
 ## 安装/ Install
 
 ### Windows
