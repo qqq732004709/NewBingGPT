@@ -1,5 +1,9 @@
-# NewBingGPT
-无需下载edge 即可使用new bing chat的桌面应用程序
+<p align="center">
+  <img width="180" src="./icon.png" alt="BingGPT">
+  <h1 align="center">BingGPT</h1>
+  <p align="center">无需下载edge 即可使用new bing chat的桌面应用程序</p>
+  <p align="center">Desktop application of new Bing's AI-powered chat</p>
+</p>
 
 Desktop application of new Bing's AI-powered chat
 ## 安装/ Install
