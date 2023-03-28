@@ -1,10 +1,17 @@
 <p align="center">
   <img width="180" src="./bing-logo.ico" alt="BingGPT">
-  <h1 align="center">BingGPT</h1>
+  <h1 align="center">NewBingGPT</h1>
   <p align="center">无需下载edge 即可使用new bing chat的桌面应用程序</p>
   <p align="center">Desktop application of new Bing's AI-powered chat</p>
 </p>
-
+<p align="center">
+  <a href="https://opensource.org/licenses/Apache-2.0">
+    <img alt="License" src="https://img.shields.io/badge/license-Apache_2.0-green">
+  </a>
+  <a href="https://github.com/qqq732004709/NewBingGPT/releases">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/qqq732004709/NewBingGPT/total">
+   </a>
+</p>
 
 
 ## 安装/ Install
