@@ -21,16 +21,12 @@
 - [NewBingGPT-1.0.1.zip](https://github.com/qqq732004709/NewBingGPT/releases/download/1.0.1/1.0.1.zip) (Installer)
 
 ## 使用条件/ Prerequisites for use
-- 已经通过waitlist的微软账户
- 
-  Get access to the early preview of new Bing - [Join the waitlist](https://www.bing.com/new)
 - 国外代理 
  
   VPN is required when launching the app if new Bing is not available in your area.
 
 
 ## 如何使用/ Usage
-[注册流程以及使用教程](https://www.cnblogs.com/cxyzncu/articles/17253030.html)
 1. 下载release中的安装包并安装
 
    Download the installation package from the release and install it.
